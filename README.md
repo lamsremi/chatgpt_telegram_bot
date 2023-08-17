@@ -1,5 +1,7 @@
 # ChatGPT Telegram Bot: **GPT-4. Fast. No daily limits. Special chat modes**
 
+https://stackoverflow.com/questions/7244321/how-do-i-update-or-sync-a-forked-repository-on-github
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/karfly/chatgpt_telegram_bot/main/static/header.png" align="center" style="width: 100%" />
 </div>
