@@ -29,7 +29,11 @@ with open(config_dir / "chat_modes.yml", 'r') as f:
 
 # models
 with open(config_dir / "models.yml", 'r') as f:
+<<<<<<< HEAD
     models = yaml.safe_load(f)
 
 # files
 help_group_chat_video_path = Path(__file__).parent.parent.resolve() / "static" / "help_group_chat.mp4"
+=======
+    models = yaml.safe_load(f)
+>>>>>>> 44b07f6 (feat/remove-local-mongodb: fix bug)
